@@ -1,0 +1,13 @@
+{
+	muted: false
+	fly: false
+	god: false
+	nick: ""
+	last_seen: { dim: "minecraft:overworld", x: 401, y: 221, z: 1505, time: 1729004897122L, xRot: -2.4001188f, yRot: 80.94983f }
+	recording: "none"
+	teleport_history: [ ]
+	homes: {
+		"floating island": { dim: "minecraft:overworld", x: 400, y: 221, z: 1503, time: 1728734936161L, xRot: 22.949217f, yRot: 81.9198f }
+	}
+	kit_use_times: { }
+}
